@@ -8,3 +8,4 @@ TgCrypto
 pymongo
 dnspython
 pyromod
+aiohttp
